@@ -6,7 +6,7 @@
   * Head to [Weaviate Cloud console](https://console.weaviate.cloud/) and log in, or create a new account.
   * Create a free `Sandbox` cluster. Give it a name, select the cloud region and press "Create".
   * Copy your REST endpointe and paste it into your .env as WEAVIATE_URL
-  * Create an API key with admin privileges and copy and paste it into your .env as WEAVIATE_KEY
+  * Create an API key with admin privileges and copy and paste it into your .env as WEAVIATE _KEY
 
 ![wcd create cluster - step 1](img/wcd-create-cluster-1.jpg)
 ![wcd create cluster - step 2](img/wcd-create-cluster-2.jpg)
